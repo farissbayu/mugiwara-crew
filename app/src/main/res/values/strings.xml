@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MugiwaraCrew</string>
+    <string name="about_me">About me</string>
+    <string name="name">Faris Bayu Setyawan</string>
+    <string name="email">bayustfa@gmail.com</string>
+    <string name="crew_name">Nama crew</string>
+    <string name="lorem_ipsum">Lorem ipsum set dolor amet</string>
+    <string name="berries">berries</string>
+    <string name="nn_name">Nickname - Name</string>
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/onepiece/images/a/a9/Monkey_D._Luffy_Portrait.png/revision/latest/scale-to-width-down/119?cb20220801002903</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/5/5d/Roronoa_Zoro_Portrait.png/revision/latest/scale-to-width-down/119?cb=20200703083233</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/2/26/Nami_Portrait.png/revision/latest/scale-to-width-down/119?cb=20211209030803</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/9/97/Usopp_Portrait.png/revision/latest/scale-to-width-down/119?cb=20190821161843</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/0/0c/Sanji_Portrait.png/revision/latest/scale-to-width-down/119?cb=20230204061747</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/8/84/Tony_Tony_Chopper_Portrait.png/revision/latest/scale-to-width-down/119?cb=20191225101353</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/9/90/Nico_Robin_Post_Timeskip_Portrait.png/revision/latest/scale-to-width-down/119?cb=20200823171357</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/a/a8/Franky_Portrait.png/revision/latest/scale-to-width-down/119?cb=20200426030735</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/3/37/Brook_Portrait.png/revision/latest/scale-to-width-down/119?cb=20200426030609</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/f/f7/Jinbe_Portrait.png/revision/latest/scale-to-width-down/119?cb=20200426030056</item>
+    </string-array>
+    <string-array name="data_name">
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbe</item>
+    </string-array>
+    <string-array name="data_bounty">
+        <item>3.000.000.000</item>
+        <item>1.111.000.000</item>
+        <item>366.000.000</item>
+        <item>500.000.000</item>
+        <item>1.032.000.000</item>
+        <item>1.000</item>
+        <item>930.000.000</item>
+        <item>394.000.000</item>
+        <item>383.000.000</item>
+        <item>1.100.000.000</item>
+    </string-array>
+    <string-array name="data_nickname">
+        <item>Straw Hat</item>
+        <item>Pirate Hunter</item>
+        <item>Cat Burglar</item>
+        <item>King of the Snipers</item>
+        <item>Black Leg</item>
+        <item>Cotton Candy Lover</item>
+        <item>Devil Child</item>
+        <item>Cyborg</item>
+        <item>Soul King</item>
+        <item>Knight of the Sea</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Monkey D. Luffy, dijuluki Luffy si Topi Jerami ("Straw Hat" Luffy), adalah kapten Bajak Laut Topi Jerami dan merupakan tokoh protagonis utama. Pada awal serial, dia tidak sengaja memakan buah setan jenis paramecia Gomu Gomu no Mi, membuat tubuhnya memperoleh sifat-sifat karet berkelenturan tinggi. Kemampuan tersebut adalah hasil keinginan Oda untuk gaya bertarung Luffy yang “pandir”, sehingga tidak peduli seberapa tegang situasi yang ada, pembaca dapat tetap santai tanpa ikut menjadi terlalu tegang. Sebagai tambahan untuk kemampuan buah setan miliknya, Luffy kemudian mempelajari Haki.</item>
+        <item>Roronoa Zoro, dinamai berdasarkan François l\'Olonnais, dijuluki Zoro si Pemburu Bajak Laut ("Pirate Hunter" Zoro), adalah seorang ahli pedang yang dapat menggunakan hingga tiga buah katana, di mana pedang ketiga digunakan dengan mulutnya. Untuk memenuhi janjinya kepada teman sekaligus musuh masa kecilnya, "Kuina", dia berimpian menjadi ahli pedang terhebat di dunia dan untuk itu, ia harus mengalahkan Dracule Mihawk. Sebelum bertemu dengan Luffy, Zoro hidup sebagai seorang pemburu hadiah (bounty hunter). Ketika dia ditangkap oleh seorang kepala divisi Angkatan Laut lokal yang tiran, Zoro diselamatkan oleh Luffy dan, atas ajakan Luffy, dia memutuskan mengikuti Luffy untuk mencapai mimpinya. Pada awalnya, Zoro mengatakan kepada Luffy bahwa dia akan mengakhiri kekaptenan Luffy jika Luffy berani menghalangi dia dengan mimpinya, walaupun kemudian Zoro mengatakan bahwa dia tidak pantas dan tidak bisa mencapai mimpinya menjadi ahli pedang terbaik jika dia tidak bisa melindungi dan membantu menggapai mimpi kaptennya.</item>
+        <item>Nami adalah seorang navigator dan pencuri yang dapat mengenali dan menganalisis perubahan sekecil apapun tentang cuaca. Mimpinya adalah untuk menggambar peta dunia secara lengkap. Sepanjang cerita, Nami bertarung menggunakan sebuah three-sectioned bo staff. Usopp kemudian memberikannya versi tongkat yang dapat mengendalikan cuaca standard, disebut Clima-Tact.</item>
+        <item>Usopp, adalah seorang pembohong, inventor ulung, serta pelukis dan pemahat yang cukup handal. Usopp bertugas sebagai ahli senjata bagi timnya juga sebagai inventor utama, sebelum kehadiran Franky sebagai inventor yang lebih canggih. Dalam pertarungan, Usopp utamanya menggunakan ketapel dengan berbagai macam amunisi. Semasa kecil, ayah Usopp, Yasopp, meninggalkan dia dan ibunya untuk bergabung dengan kelompok bajak laut rambut merah. Beberapa saat setelah itu, ibu Usopp, Banchina, jatuh sakit. Usopp mulai menceritakan cerita bohong, mengatakan bahwa ayahnya telah kembali dan akan membawa Usopp dan ibunya. Ibunya pun kemudian meninggal, namun Usopp, dalam kesedihannya, terus menceritakan kebohongan. Meski begitu, dia tidak pernah menyalahkan ayahnya karena telah meninggalkannya, tetapi justru bangga atas jasanya.</item>
+        <item>Sanji adalah juru masak bajak laut Topi Jerami. Dia tau bagaimana rasanya menjadi orang kelaparan karena pernah mengalaminya, membuatnya tidak akan menolak seseorang yang meminta-minta makanan karena kelaparan. Dia memiliki rasa kesopanan yang tinggi, di mana salah satunya membuat dia tidak akan menyakiti perempuan, sekalipun membahayakan nyawanya. Mimpinya adalah untuk menemukan "All Blue", sebuah laut legenda idaman para koki, konon di dalamnya terdapat semua jenis ikan dari seluruh penjuru dunia. Sanji hanya menggunakan teknik tendangan dalam bertarung. Dia mengatakan bahwa hal tersebut karena tangan seorang chef adalah hal paling berharga untuk memasak, membuatnya tidak patut untuk dikotori oleh pertarungan. Sanji mulai menggunakan teknik tendangan api, dikenal sebagai Diable Jambe, di mana ia menciptakan panas pada kakinya dengan cara berputar sangat cepat untuk memberikan gaya gesek dan meningkatkan kekuatan tendangan.</item>
+        <item>Tony Tony Chopper adalah seorang dokter dan seekor rusa berhidung biru yang mendapatkan kemampuan menusia setelah memakan buah setan zoan Hito Hito no Mi. Menggunakan sebuah jenis obat yang ia kembangkan sendiri, Rumble Ball, Chopper dapat bertransformasi menjadi lebih dari tiga bentuk dasar yang didapat dari kemampuan buah setannya.</item>
+        <item>Nico Robin, juga disebut "Anak Iblis" oleh Pemerintah Dunia, adalah seorang arkaeolog asal Ohara, tempat perpustakaan terbesar dan tertua di dunia. Robin mulai menjadi arkaeolog dan belajar menerjemahkan tulisan kuno Poneglyph saat berusia delapan tahun hanya agar dapat bertemu dengan ibunya yang berkeliling dunia mencari Poneglyph. Namun, Pemerintah Dunia menghancurkan seluruh pulau Ohara termasuk ibunya yang baru saja kembali, Nico Olvia, karena telah melanggar peraturan pemerintah dengan melakukan penelitian terhadap Poneglyph. Setelah berhasil menjadi satu-satunya orang yang selamat, Robin bertahan hidup dengan cara bekerjasama dengan beragam kelompok bajak laut dan pelanggar hukum lainnya, hingga dia bergabung dengan Baroque Works sebagai wakil presiden. Saat itu ia dipanggil dengan nama kode "Ms. All-Sunday" dan menjadi musuh bagi bajak laut Topi Jerami sebelum akhirnya bergabung dengan mereka. Seperti peneliti Ohara lain sebelum dirinya, adalah mimpinya untuk menemukan dan menerjemahkan Rio Poneglyph, yang konon menyimpan rahasia sejarah gelap dunia yang hilang. Minatnya terhadap sejarah dan pemeliharaannya sangatlah tinggi, hingga ia berani membahayakan nyawanya untuk melindungi bangunan dan artefak kuno. Robin memakan buah setan paramecia Hana Hana no Mi, membuatnya dapat mereplika bagian tubuhnya di permukaan benda apapun yang dapat ia lihat dan rasakan. Namun, jika bagian tubuh replikanya terluka, maka ia juga akan merasakan sakit pada tubuh aslinya.</item>
+        <item>Memiliki nama asli Cutty Flam, dia kemudian mengganti namanya menjadi Franky untuk menyembunyikan identitas aslinya. Franky menjadi ahli kapal bagi Kelompok Bajak Laut Topi-Jerami. Ditinggalkan oleh orang tua perompaknya di Pulau Water 7 saat berusia sepuluh tahun, Franky menjadi murid ahli kapal Tom, bersama dengan murid lainnya, Iceburg, yang kemudian menjadi wali kota Water 7. Ketika Tom ditangkap oleh Pemerintah Dunia karena telah membuat kapal Bajak Laut Roger, Oro Jackson, Franky mencoba menghentikan mereka. Dalam usahanya, Franky terluka cukup parah dan untuk bertahan hidup, dia membentuk ulang bagian tubuhnya dengan logam-logam bekas, mengubahnya menjadi siborg bertenaga cola dengan kekuatan manusia super. Mimpinya adalah untuk membangun sebuah kapal hebat, menjadi ahli kapalnya, dan berlayar bersamanya ke ujung dunia. Atas alasan itu, Franky membangun Thousand Sunny dan bergabung dengan Topi-Jerami.</item>
+        <item>Brook adalah seorang musisi sekaligus ahli anggar. Brook berwujud sebuah kerangka, hidup kembali dari kematiannya berkat buah setan paramecia Yomi Yomi no Mi, yang kemampuan utamanya memberikan penggunanya hidup kedua. Dia adalah seorang musisi handal, mengklaim dapat memainkan segala instrumen musik, walaupun dia sering terlihat memainkan biola dan gitar. Dengan musiknya, Brook memiliki kemampuan untuk menghipnosis orang. Brook juga seorang ahli anggar yang dalam pertarungan menggunakan sebuah tongkat pedang ala Jepang, shikomizue. Tubuh kerangkanya yang sangat ringan membuatnya dapat melompat sangat tinggi dan berlari diatas air. Brook memiliki kepribadian yang sangat energetik. Ketika kru pertama Brook, "Bajak Laut Rumbar", memasuki Grand Line melalui Reverse Mountain, mereka meninggalkan paus peliharaan sekaligus teman mereka, Laboon, dengan berjanji akan kembali setelah berlayar mengarungi dunia. Namun setelah kalah dalam sebuah pertarungan, seluruh kru bajak laut Rumbar meninggal dan belum dapat kembali menemui Laboon. Lima puluh tahun kemudian, Brook menganggap adalah tugasnya untuk memenuhi janji krunya terdahulu.</item>
+        <item>Jinbe adalah seorang ikan paus raksasa yang bergabung dengan kru Topi Jerami setelah mengundurkan diri dari posisinya sebagai Shichibukai. Dia memiliki kepribadian yang bijaksana dan bertanggung jawab, serta kemampuan bertarung yang kuat dengan keahlian dalam Fishman Karate dan kemampuan untuk mengendalikan air. Jinbe juga dikenal sebagai salah satu teman terdekat dari Luffy, sang kapten Topi Jerami.</item>
+    </string-array>
+</resources>
